@@ -1,1 +1,1 @@
-# TelegramRedditParcer
+# TelegramRedditParser
